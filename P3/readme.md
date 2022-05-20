@@ -22,11 +22,26 @@ Este es el moodboard realizado para nuestra aplicación, donde podemos encontrar
 
 ## Landing Page
 
+## GuideLines
+
+Algunos patrones que usaremos en nuestra aplicación serán:
+    • Home link: Patrón que implementa un botón que lleva al usuario a la página principal en caso de querer retroceder varias de golpe y no tener que ir de una en una.
+    • SlideShow: Con dos de los iconos que nosotros hemos indicado en el moodboard (la flecha de avance y retroceso), se desplegará una galería de fotos y se podrá viajar por ellas.
+    • Event Calendar: Patrón que usaremos en lo que nosotros hemos indicado como “descripción” en el primer boceto, donde incluiremos una foto que representa el baile de ese día concreto, una descripción del mismo y el horario en que se llevaría a cabo.
+
+A continuación, explicaremos la elección de los distintos elementos de nuestra página web.
+
+Para empezar, el logo ha sido creación propia, mediante la herramienta www.designevo.com, que ofrece una gran cantidad de imágenes y colores con los que trabajar. En base a que nuestra propuesta es una semana de bailes, el logo consta de una pareja de baile y los colores característicos de la página principal del Lemon Rock. Este logo aparecería constantemente en el centro superior de la página y sería el “botón” de retorno en caso de viajar por diferentes ventanas.
+
+La paleta de colores elegida corresponde con la existente en la página web actual del Lemon Rock. Añadido a esto, usamos varios iconos seleccionados de www.fonts.google.com, ya que nos ofrecía bastantes de los que teníamos en mente para usar.
+
+Por último, las fuentes elegidas las diferenciamos en que una la usaremos solamente para el título (fuente “yesteryear”), y otra será para todo el texto que aparecerá en la web (fuente “Libre Botonic”). La elección de la primera solo para el título se debe a que tiene un estilo diferenciado y artificial, para que sea vistoso y llamativo. Por otro lado, la fuente elegida para el texto es más natural y parecida a una escritura humana, por lo que es muy entendible.
+
+Como “guideline”, tendremos en cuenta una “scroll view”, ya que nuestra descripción, tenemos en mente que nos ocupe bastante y deje los demás apartados por debajo, siendo necesario hacer scroll para visualizarlo y no tener que generarlo todo en otra ventana diferente.
+
 
 ## Mockup: LAYOUT HI-FI
 
-
-## Documentación: Publicación del Case Study
 
 
 (incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
