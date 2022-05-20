@@ -2,7 +2,7 @@
 
 ## Moodboard (diseño visual + logotipo) 
 
-<img>./moodborad.png
+<img src="/moodborad.png" alt="Moodboard"/>
 
 
 ## Landing Page
