@@ -48,6 +48,8 @@ boceto quiera investigar más y mejor nuestra actividad de una manera rápida
 ## GuideLines
 
 Algunos patrones que usaremos en nuestra aplicación serán:
+
+
 -Home link: Patrón que implementa un botón que lleva al usuario a la página principal en caso de querer retroceder varias de golpe y no tener que ir de una en una.
 -SlideShow: Con dos de los iconos que nosotros hemos indicado en el moodboard (la flecha de avance y retroceso), se desplegará una galería de fotos y se podrá viajar
 por ellas
