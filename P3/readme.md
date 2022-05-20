@@ -2,7 +2,7 @@
 
 ## Moodboard (diseño visual + logotipo) 
 
-<img src="./moodborad.png" alt="Moodboard"/>
+<img src="https://github.com/rafaacano/DIU/blob/master/P3/moodboard.png" alt="Moodboard"/>
 
 
 ## Landing Page
