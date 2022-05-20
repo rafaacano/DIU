@@ -22,6 +22,10 @@ Este es el moodboard realizado para nuestra aplicación, donde podemos encontrar
 
 ## Landing Page
 
+<img src="https://github.com/rafaacano/DIU/blob/master/P3/landingPage.jpg" alt="Landing Page"/>
+
+
+
 ## GuideLines
 
 Algunos patrones que usaremos en nuestra aplicación serán:
