@@ -73,5 +73,7 @@ Como “guideline”, tendremos en cuenta una “scroll view”, ya que nuestra 
 
 ## Mockup: LAYOUT HI-FI
 
+<img src="https://github.com/rafaacano/DIU/blob/master/P3/Fotos/1.png" alt="Landing Page"/>
+
 
  
