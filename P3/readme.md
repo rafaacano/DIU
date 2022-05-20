@@ -74,6 +74,4 @@ Como “guideline”, tendremos en cuenta una “scroll view”, ya que nuestra 
 ## Mockup: LAYOUT HI-FI
 
 
-
-(incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
  
