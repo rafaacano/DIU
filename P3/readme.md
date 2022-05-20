@@ -2,7 +2,7 @@
 
 ## Moodboard (diseño visual + logotipo) 
 
-hola
+<img>
 
 
 ## Landing Page
