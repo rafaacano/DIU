@@ -25,6 +25,25 @@ Este es el moodboard realizado para nuestra aplicación, donde podemos encontrar
 <img src="https://github.com/rafaacano/DIU/blob/master/P3/landingPage.jpg" alt="Landing Page"/>
 
 
+Este es el boceto del Landing Page que hemos realizado para promocionar nuestra página web
+
+En cabeza tiene un eslogan que atraiga a la persona que lo lee y quiera seguir leyendo más. 
+Debajo hay un pequeño subesolgan para enganchar aún mas al lector.
+
+Justo debajo de estas 2 frases hemos colocado un botón que lleva directamente a la página para que el 
+lector entre directamente a investigar si le apetece.
+
+A continuación un conjunto de collage de fotos de todos los bailes que haga atractiva la actividad y le 
+de vitalidad a este Landing Page
+
+Para terminar hemos colocado unas frases mostrando los beneficios del baile, para convencer más todavía
+al lector de querer entrar en nuestra página.
+
+En el pie de la página se encuentra otro botón que lleva a la página principal, para que el lector no 
+tenga que subir hasta arriba para pulsar el otro botón, todo técnicas para que la persona que lea el 
+boceto quiera investigar más y mejor nuestra actividad de una manera rápida
+
+
 
 ## GuideLines
 
