@@ -73,7 +73,16 @@ Como “guideline”, tendremos en cuenta una “scroll view”, ya que nuestra 
 
 ## Mockup: LAYOUT HI-FI
 
-<img src="https://github.com/rafaacano/DIU/blob/master/P3/Fotos/1.png" alt="Landing Page"/>
+Al principio de la página hemos mantenido la visualización del Lemon Rock, donde además, si pulsamos el logo, nos lleva a la página de inicio
 
+<img src="https://github.com/rafaacano/DIU/blob/master/P3/Fotos/1.png" alt="Foto1"/>
 
+A continuación, hemos hecho un bloque de cada uno de los bailes, con una explicación breve de ellos y de los profesores que van a impartir las clases.
+Si pinchamos en el nombre y el día de la semana del baile, nos lleva directamente a la reserva
+
+<img src="https://github.com/rafaacano/DIU/blob/master/P3/Fotos/2.png" alt="Foto2"/>
+
+Después viene la parte de los precios, donde hay 2 posibilidades de elección según el día o la hora que se quieran escoger
+
+<img src="https://github.com/rafaacano/DIU/blob/master/P3/Fotos/3.png" alt="Foto3"/>
  
