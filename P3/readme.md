@@ -85,4 +85,19 @@ Si pinchamos en el nombre y el día de la semana del baile, nos lleva directamen
 Después viene la parte de los precios, donde hay 2 posibilidades de elección según el día o la hora que se quieran escoger
 
 <img src="https://github.com/rafaacano/DIU/blob/master/P3/Fotos/3.png" alt="Foto3"/>
+
+Más abajo hemos puesto un mapa para poder encontrar rápidamente el sitio a trvés de google maps
+
+<img src="https://github.com/rafaacano/DIU/blob/master/P3/Fotos/4.png" alt="Foto4"/>
+
+A parte de esto, si pinchamos en el apartado de contacto encontramos una nueva pantalla
+
+<img src="https://github.com/rafaacano/DIU/blob/master/P3/Fotos/5.png" alt="Foto5"/>
  
+Debajo hay un pequeño formulario para poder introducir tus datos y recibir información de las actividades
+
+<img src="https://github.com/rafaacano/DIU/blob/master/P3/Fotos/6.png" alt="Foto6"/>
+
+
+
+
