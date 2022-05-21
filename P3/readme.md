@@ -22,7 +22,7 @@ Este es el moodboard realizado para nuestra aplicación, donde podemos encontrar
 
 ## Landing Page
 
-<img src="https://github.com/rafaacano/DIU/blob/master/P3/bocetoLanding.jpg" alt="Landing Page"/>
+<img src="https://github.com/rafaacano/DIU/blob/master/P3/bocetoLanding.png" alt="Landing Page"/>
 
 
 Este es el boceto del Landing Page que hemos realizado para promocionar nuestra página web
