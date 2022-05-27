@@ -98,6 +98,9 @@ Debajo hay un pequeño formulario para poder introducir tus datos y recibir info
 
 <img src="https://github.com/rafaacano/DIU/blob/master/P3/Fotos/6.png" alt="Foto6"/>
 
+Para ver el website en funcionamiento, se puede usar el siguiente enlace:
+https://diu12computing.mobirisesite.com/
+
 
 
 
